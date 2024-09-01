@@ -1,0 +1,1 @@
+# -sum-all-numbers-of-array-except-from-highest-and-lowest-element-
